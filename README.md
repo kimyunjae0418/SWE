@@ -1,2 +1,2 @@
-# UsecaseDiagram
-각자 usecase diagram 작성후 의견 종합하여 최종본 확정
+# UI
+각자 맡은 기능 페이지 초안 작성 후 취합하여 Figma 제작 
