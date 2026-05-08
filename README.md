@@ -1,8 +1,2 @@
-# SWE 
-과제 1 : Requirement Capturing – 온라인 설문조사 플랫폼
-
-### Git Repository Clone
-```
-git clone https://github.com/kimyunjae0418/SWE.git
-cd SWE
-```
+# UsecaseDiagram
+각자 usecase diagram 작성후 의견 종합하여 최종본 확정
