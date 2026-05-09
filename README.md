@@ -1,8 +1,6 @@
-# SWE 
-과제 1 : Requirement Capturing – 온라인 설문조사 플랫폼
-
-### Git Repository Clone
+# Requirement List
 ```
-git clone https://github.com/kimyunjae0418/SWE.git
-cd SWE
+강정준 : 설문검색, 해당 설문 상세정보, 설문 응답, 응답한 설문 리스트 조회, 설문 수정
+김윤재 : 회원 탈퇴, 로그인, 로그아웃, 회원가입
+이다은 : 설문 등록, 모든 설문 리스트 조회, 응답 통계 조회
 ```
